@@ -1,0 +1,18 @@
+# Logs
+*.log
+
+# npm
+node_modules
+package-lock.json
+
+# Build
+main.js
+*.js.map
+
+# IDE
+.idea
+.vscode
+
+# OS
+.DS_Store
+Thumbs.db
