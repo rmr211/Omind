@@ -29,7 +29,7 @@
 ### 手动安装
 
 1. 下载最新 Release
-2. 解压到 `.obsidian/plugins/rmr211/` 目录
+2. 解压到 `.obsidian/plugins/Omind/` 目录
 3. 重启 Obsidian，在设置中启用插件
 
 ---
