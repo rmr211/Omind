@@ -548,7 +548,7 @@ class MindMapSettingTab extends PluginSettingTab {
     display() {
         const { containerEl } = this;
         containerEl.empty();
-        containerEl.createEl('h2', { text: 'MindMap Plus Settings' });
+        containerEl.createEl('h2', { text: 'Omind Settings' });
 
         // ---- Visual ----
         containerEl.createEl('h3', { text: '🎨 Visual', cls: 'mindmap-settings-section-title' });

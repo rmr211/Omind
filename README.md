@@ -1,4 +1,4 @@
-# MindMap Plus for Obsidian
+# Omind — Obsidian MindMap
 
 将 Markdown 文件一键转为可交互的思维导图。支持分支配色、图片/表格、实时同步以及多格式导出。
 
@@ -23,13 +23,13 @@
 ### 从社区插件市场安装
 
 1. 打开 Obsidian **设置 → 第三方插件**
-2. 搜索 **MindMap Plus**
+2. 搜索 **Omind**
 3. 点击安装并启用
 
 ### 手动安装
 
 1. 下载最新 Release
-2. 解压到 `.obsidian/plugins/obsidian-mindmap-plus/` 目录
+2. 解压到 `.obsidian/plugins/rmr211/` 目录
 3. 重启 Obsidian，在设置中启用插件
 
 ---
@@ -97,7 +97,7 @@
 
 ## 设置项
 
-在 **设置 → MindMap Plus** 中调整：
+在 **设置 → Omind** 中调整：
 
 ### 🎨 视觉
 - **主题** — Auto / Light / Dark

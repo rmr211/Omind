@@ -1,7 +1,7 @@
 {
-  "name": "obsidian-mindmap-plus",
+  "name": "omind",
   "version": "1.0.0",
-  "description": "Advanced mindmap plugin for Obsidian with XMind features",
+  "description": "Obsidian mindmap plugin — branch coloring, images, tables, real-time sync & multi-format export",
   "main": "main.js",
   "scripts": {
     "dev": "node esbuild.config.mjs",
@@ -11,10 +11,10 @@
   "keywords": [
     "obsidian",
     "mindmap",
-    "xmind",
+    "omind",
     "markdown"
   ],
-  "author": "MindMap Plus Team",
+  "author": "rmr211",
   "license": "MIT",
   "devDependencies": {
     "@types/node": "^16.11.6",

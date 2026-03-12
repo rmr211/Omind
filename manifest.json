@@ -1,10 +1,10 @@
 {
-  "id": "obsidian-mindmap-plus",
-  "name": "MindMap Plus",
+  "id": "rmr211",
+  "name": "Omind",
   "version": "1.0.0",
   "minAppVersion": "0.15.0",
-  "description": "Advanced mindmap plugin with full XMind features - convert between Markdown and mindmaps with rich formatting, styles, and export options",
-  "author": "MindMap Plus Team",
-  "authorUrl": "https://github.com/yourusername/obsidian-mindmap-plus",
+  "description": "Convert Markdown to interactive mindmaps with branch coloring, image/table support, real-time sync and multi-format export",
+  "author": "rmr211",
+  "authorUrl": "https://github.com/rmr211/Omind",
   "isDesktopOnly": false
 }
